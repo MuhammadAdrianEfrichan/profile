@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+@theme {
+    --color-mint-500: oklch(0.72 0.11 178);
+    --background : #0A1628;
+    --navbar :#0D1F3C;
+    --border : #2E6DB4;
+    
+
+}
