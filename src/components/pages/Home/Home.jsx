@@ -1,9 +1,10 @@
+import Hero from "../Hero";
 import Navbar from "../Navbar";
 
 const Home = () =>  {
     return <main>
         <Navbar />
-            <h1>Hello World</h1>
+        <Hero />
     </main>
 }
 
