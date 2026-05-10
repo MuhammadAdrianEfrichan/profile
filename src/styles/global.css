@@ -9,4 +9,6 @@
     --color-headingA : #4A9FD4;
     --color-headingB : #F0F4FF;
     --color-aksen : #C9A84C;
+    --font-serif: "DM Serif Display", serif;
+    --font-sans: "DM Sans", sans-serif;
 }
