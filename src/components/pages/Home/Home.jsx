@@ -1,6 +1,7 @@
 import About from "../About";
 import Hero from "../Hero";
 import Navbar from "../Navbar";
+import Visi from "../Visi&Misi";
 
 
 const Home = () =>  {
@@ -8,6 +9,7 @@ const Home = () =>  {
         <Navbar />
         <Hero />
         <About />
+        <Visi />
     </main>
 }
 
