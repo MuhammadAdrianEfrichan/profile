@@ -1,7 +1,7 @@
 import logo from "../../../assets/logo/logo.png"
 
 const Navbar = () =>{
-    return <nav className="bg-black/ absolute z-10 w-full h-17 flex justify-between items-center pr-8 px-6" >
+    return <nav className="container mx-auto bg-black/ absolute z-10 w-full h-17 flex justify-between items-center pr-8 px-6" >
                 <img src={logo} alt="" className="w-20"/>
                 <div className="flex justify-evenly  w-100 font-sans uppercase text-[14px]">  
                 <a href="#about" className="hidden sm:block text-gray-400  hover:text-blue-400">About Us</a>
