@@ -1,5 +1,5 @@
 const About = ()=>{
-    return <div className="container mx-auto px-6 mt-20 lg:flex lg:justify-around ">
+    return <div className="container mx-auto px-6 my-40 lg:flex lg:justify-around ">
         <div className="w-100% h-70 border lg:w-110 xl:w-130 "></div>
         <div className="w-100% h-auto  lg:w-110 mt-10 lg:mt-0">
             <div className="text-3xl font-serif font-bold text-center pt-10 pb-5 text-blue-600 lg:pt-0 ">About Us</div>
